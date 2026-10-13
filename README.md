@@ -1,9 +1,9 @@
 # Hi, I'm Raphael Eze
 
-**Full Stack & Product Engineer | Python, Django, React**
-Based in Ota, Ogun State, Nigeria
+**Backend Developer & Product Engineer | Python, Django, PostgresSQL, JavaScript, CSS, HTML **
+Based in Lagos, Nigeria
 
-I build REST APIs and full stack web applications with Django, Django REST Framework and PostgreSQL, with React on the frontend. Before moving into software in 2025, I spent 7 years supervising production and maintenance in manufacturing, so I care about reliability, clear processes and shipping things that work.
+I build REST APIs and full stack web applications with Django, Django REST Framework and PostgreSQL, with JavaScript, CSS, HTML, Reactact the frontend. Before moving into software in 2025, I spent 7 years supervising production and maintenance in manufacturing, so I care about reliability, clear processes and shipping things that work.
 
 ## Tech stack
 
@@ -25,11 +25,11 @@ I build REST APIs and full stack web applications with Django, Django REST Frame
 
 ## Currently
 
-- Building an e-commerce platform for a phone shop (React, Supabase/Neon)
+- Building an e-commerce platform for a different categories shop (React, Supabase/Neon)
 - Building a team chat app and an AI-engineer portfolio site
 - Learning advanced Django architecture and production deployment
 
 ## Get in touch
 
-- Email: raphblink@gmail.com
+- Email: raphaelifeanyieze@gmail.com
 - LinkedIn: [linkedin.com/in/raphblink](https://www.linkedin.com/in/raphblink)
